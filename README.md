@@ -17,6 +17,14 @@
 <b>OT Security</b>
   - [Greencat Malware Analysis with Ghidra](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2> Security Cetifications:</h2>
+
+ <b>CompTIA Advanced Security Practitioner (CASP+) Certified CE</b>
+ 
+ <b>CompTIA Security+ Certified CE</b>
+  
+ <b>Qualys Vulnerability Management</b>
+
 <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
